@@ -1,0 +1,23 @@
+Deep Learning
+
+Deep learning is an advanced subset of artificial intelligence and machine learning that uses multi-layered artificial neural networks to automatically learn complex patterns and representations from raw, unstructured data.
+
+How It Works
+
+• Neural Networks: The architecture mimics the biological structure of the human brain using interconnected nodes (artificial neurons) organized into layers.
+• Layer Hierarchy: A model typically features an input layer, multiple hidden layers (the "deep" part, which can number in the hundreds), and an output layer. Each successive layer extracts increasingly abstract features (e.g., raw pixels turn into edges, shapes, and finally full objects).
+• Automatic Feature Learning: Unlike traditional machine learning—which requires humans to manually define and code features—deep learning discovers them directly from the data.
+• Training Process: Models adjust internal parameters called weights and biases using mathematical techniques like backpropagation and gradient descent to minimize prediction errors.
+
+Key Neural Network Architectures
+
+• Convolutional Neural Networks (CNNs): Specialized for computer vision, image recognition, and video processing.
+• Recurrent Neural Networks (RNNs) & LSTMs: Designed for sequential and time-series data like speech and text.
+• Transformers: Utilize parallel self-attention mechanisms to power modern large language models (LLMs) and generative AI.
+• Generative Adversarial Networks (GANs) & Diffusion Models: Used for creating new data, such as images, audio, or text.
+
+Common Applications
+
+• Vision and Speech: Facial recognition, medical X-ray analysis, and real-time speech-to-text.
+• Natural Language: Language translation, virtual assistants, and conversational chatbots.
+• Autonomy: Self-driving vehicles and robotics control systems

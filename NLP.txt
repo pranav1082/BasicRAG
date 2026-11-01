@@ -1,0 +1,21 @@
+Natural Language Processing
+
+Natural Language Processing (NLP) is a branch of artificial intelligence (AI) that bridges the gap between human communication and computer understanding. It combines computational linguistics, machine learning, and deep learning to enable computers to read, interpret, process, and generate human language (like English, Spanish, or Hindi) in a meaningful way.
+While traditional programming languages require strict, rigid code (like Python or JavaScript), NLP allows machines to handle the messy, unstructured, and ambiguous nature of the everyday language humans use.
+
+How NLP Works: The Core Pipeline
+
+To make sense of human text or speech, an NLP system typically follows a multi-step pipeline to clean data, analyze structure, and extract meaning:
+1. Text Preprocessing: Raw text is cleaned up. This includes tokenization (breaking text down into individual words or phrases), stop word removal (getting rid of common words like "is" or "the"), and lemmatization (reducing words like "running" to their base form, "run").
+2. Language Analysis: The system analyzes syntax and context. Tools like Part-of-Speech (POS) Tagging identify nouns, verbs, and adjectives. Word-Sense Disambiguation helps the AI figure out which meaning of a word is intended based on context (e.g., distinguishing between a baseball "bat" and a nocturnal animal "bat").
+3. Text Representation: Because computers only truly process numbers, the analyzed text is converted into mathematical equations called word embeddings. Modern models use contextual embeddings to ensure the mathematical value changes based on the surrounding sentence structure.
+4. Model Training & Application: Algorithms and neural networks learn language patterns from massive datasets. Modern AI uses transformers and large language models (LLMs) (like those powering ChatGPT or Gemini) to reason and generate natural human responses.
+
+Everyday Use Cases of NLP
+
+You likely interact with NLP applications daily without realizing it:
+• Voice Assistants & Chatbots: Systems like Apple's Siri, Amazon's Alexa, and customer service chatbots use speech recognition and NLP to understand vocal or text commands and reply conversationally.
+• Machine Translation: Platforms like Google Translate instantly translate text between hundreds of different languages.
+• Sentiment Analysis: Businesses use NLP to scan product reviews, emails, and social media posts to automatically gauge whether customer feedback is positive, negative, or neutral.
+• Text Summarization & Autocomplete: Search engines and word processors use NLP to predict the next word you want to type, flag grammatical errors, or condense long articles into quick bullet points.
+• Industry Automation: Healthcare systems use NLP to pull structured medical data out of unstructured doctor's notes, while legal and financial firms use it to instantly audit massive stacks of contracts and financial reports.

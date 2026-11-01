@@ -1,0 +1,18 @@
+Machine Learning
+
+Machine learning (ML) is a subset of artificial intelligence (AI) focused on building systems that learn from data to improve their performance without being explicitly programmed. Instead of a human writing rigid, step-by-step code for a task, a machine learning algorithm analyzes large datasets, recognizes hidden statistical patterns, and creates a predictive "model" to handle new, unseen information autonomously.
+
+How Machine Learning Works
+
+In traditional programming, a software engineer writes specific rules (the recipe) and inputs data to get an answer. In machine learning, the process is reversed: you feed the computer the data and the answers, and the system figures out the rules on its own.
+1. Data Collection: The system gathers relevant historical data (e.g., millions of banking transactions).
+2. Model Training: A machine learning algorithm processes this data, adjusting internal mathematical weights to minimize its own errors.
+3. Inference: Once trained, the resulting model can look at completely fresh data (e.g., a brand-new transaction) and accurately predict an outcome (e.g., whether it is fraudulent).
+
+The 3 Main Types of Machine Learning
+
+
+Type	How It Learns	Common Example
+Supervised Learning	Learns using an "answer key" of labeled data.	Email spam filters; predicting house prices.
+Unsupervised Learning	Finds hidden patterns in unlabeled data on its own.	Customer segmentation for marketing.
+Reinforcement Learning	Learns through trial-and-error using rewards and penalties.	Chess engines; autonomous driving.
